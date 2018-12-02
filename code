@@ -12,3 +12,7 @@ else
 sort(A.begin(),A.end(),cmp);
 cmp加static
 static int cmp
+
+链表归并排序 
+快慢指针；注意区间长度为2个节点的情况
+每次剖开加nullptr;
