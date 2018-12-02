@@ -23,3 +23,11 @@ static int cmp
 
 LIS nlogn解法
 leetcode 300
+
+
+数字转字符
+while(num)
+{
+}
+注意num一开始为0不进入循环情况；
+注意输出“00000”若为数字输出应改为“0”；
