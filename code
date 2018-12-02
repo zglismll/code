@@ -20,3 +20,6 @@ static int cmp
 
 
 区间相交情况很多，先找不相交。
+
+LIS nlogn解法
+leetcode 300
