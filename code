@@ -1,0 +1,14 @@
+链表
+链表封装  重组一个链表，最后需要加->next = nullptr;
+归并排序常见格式：
+if(a==b)
+return ;
+else
+{ int m = (a+b)/2;
+   merge(a,m);
+   merge(m+1,b);
+}
+
+sort(A.begin(),A.end(),cmp);
+cmp加static
+static int cmp
