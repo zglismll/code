@@ -1,5 +1,6 @@
 链表
-链表封装  重组一个链表，最后需要加->next = nullptr;
+最后需要加->next = nullptr;
+链表封装  (重组一个链表,Notice:最后需要加->next = nullptr;否则会出现循环)
 归并排序常见格式：
 if(a==b)
 return ;
@@ -16,3 +17,4 @@ static int cmp
 链表归并排序 
 快慢指针；注意区间长度为2个节点的情况
 每次剖开加nullptr;
+
