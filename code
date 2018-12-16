@@ -61,3 +61,13 @@ leetcode 74
 
 
 股票买卖（四种dp）
+
+
+multiset 
+erase(val)  删除所有值是val 值
+erase(lower_bound(val)) 删除第一个大于等于的值 （最多删除一个)
+
+set<int> W;
+W.lower_bound(p); 返回找到的下标 注意下标越界的处理。
+W.erase（p)
+W.erase(W.lower_bound(p));
