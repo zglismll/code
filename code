@@ -1,3 +1,10 @@
+
+
+string p = p+'a';
+不能在声明时运用
+string p;
+p = p+'a';
+
 链表
 最后需要加->next = nullptr;
 链表封装  (重组一个链表,Notice:最后需要加->next = nullptr;否则会出现循环)
