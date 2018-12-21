@@ -1,5 +1,7 @@
 
-
+两数之和 哈希  双指针
+ListNode* dummy ListNode* next
+next = dummy  用next代dummy变化，返回dummy->next;
 string p = p+'a';
 不能在声明时运用
 string p;
