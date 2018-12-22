@@ -1,4 +1,6 @@
+有效数字 leetcode 65
 
+判断两个double类型数字是否相等 使用|(a-b)|<0.000000001
 两数之和 哈希  双指针
 ListNode* dummy ListNode* next
 next = dummy  用next代dummy变化，返回dummy->next;
