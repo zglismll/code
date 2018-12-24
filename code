@@ -88,3 +88,6 @@ set<int> W;
 W.lower_bound(p); 返回找到的下标 注意下标越界的处理。
 W.erase（p)
 W.erase(W.lower_bound(p));
+
+运算符优先级
+
